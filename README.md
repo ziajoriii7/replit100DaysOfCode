@@ -5,4 +5,6 @@
 
 - [x] DAY 003: day-003/main-day-003; concatenating text and variables.py
 
+- [x] DAY 004: day-004/main-day-004; printing color with ANSI escape codes.py
+
 
