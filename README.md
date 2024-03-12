@@ -3,3 +3,6 @@
 
 - [x] DAY 002: day-002/main-day-002; taking user input, using variables.py
 
+- [x] DAY 003: day-003/main-day-003; concatenating text and variables.py
+
+
